@@ -1,1 +1,1 @@
-# SMS_spam_classifier_NLP
+# SpamClassifier
